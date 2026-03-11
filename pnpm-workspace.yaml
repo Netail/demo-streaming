@@ -1,0 +1,7 @@
+packages:
+  - demos/*
+
+catalog:
+  '@types/node': 25.3.5
+
+linkWorkspacePackages: deep

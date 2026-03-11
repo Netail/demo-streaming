@@ -1,0 +1,13 @@
+{
+    "name": "demo-streaming-2",
+    "version": "0.0.0",
+    "description": "Streaming demo 2",
+    "license": "UNLICENSED",
+    "type": "module",
+    "scripts": {
+        "dev": "node ./index.ts --experimental-transform-types"
+    },
+    "devDependencies": {
+        "@types/node": "catalog:"
+    }
+}
